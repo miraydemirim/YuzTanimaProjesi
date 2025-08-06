@@ -12,5 +12,3 @@ cv2.imshow("Tanimlanan Yuz", image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-# sanal ortamı açmak için: .\yuz_ortami\Scripts\activate
-# kamerayı çalıştır: python kamera.py
